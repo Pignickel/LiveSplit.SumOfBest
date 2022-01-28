@@ -5,9 +5,9 @@ namespace LiveSplit.UI.Components
 {
     public class SumOfBestFactory : IComponentFactory
     {
-        public string ComponentName => "Sum of Best";
+        public string ComponentName => "SOBnoCUC";
 
-        public string Description => "Displays the current sum of best segments.";
+        public string Description => "Adds 1:35 to SOB";
 
         public ComponentCategory Category => ComponentCategory.Information; 
 
